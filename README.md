@@ -302,3 +302,6 @@ This project is licensed under the terms of the [MIT license](LICENSE).
 
 ### 0.1.0
 - Initial release
+
+### 3.1.2
+- Initial dsy
